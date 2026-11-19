@@ -1,0 +1,7 @@
+text,prediction,score,champion_model_version
+I absolutely loved this movie. It was fantastic!,positive,0.9998779296875,7
+The food was terrible and the service was awful.,negative,0.9997612833976746,7
+This product works perfectly and I am very happy.,positive,0.9998875856399536,7
+I regret buying this. It was a complete waste of money.,negative,0.999812662601471,7
+The experience was wonderful and I would recommend it.,positive,0.9998761415481567,7
+The quality is disappointing and I will not buy again.,negative,0.9995574355125427,7

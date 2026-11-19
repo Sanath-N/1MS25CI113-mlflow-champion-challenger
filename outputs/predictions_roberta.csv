@@ -1,0 +1,101 @@
+text,reference,prediction,score,correct
+really quite funny .,positive,positive,0.9977830052375793,True
+"the creative animation work may not look as fully 'rendered' as pixar's industry standard , but it uses lighting effects and innovative backgrounds to an equally impressive degree .",positive,positive,0.9988934397697449,True
+"[it] has the feel of a summer popcorn movie . nothing too deep or substantial . explosions , jokes , and sexual innuendoes abound .",positive,positive,0.9982840418815613,True
+"piccoli's performance is amazing , yes , but the symbols of loss and denial and life-at-arm's-length in the film seem irritatingly transparent .",negative,negative,0.9988551139831543,True
+"often likable , but just as often it's meandering , low on energy , and too eager to be quirky at moments when a little old-fashioned storytelling would come in handy .",negative,negative,0.9994988441467285,True
+i was sent a copyof this film to review on dvd . for free . i still want my money back .,negative,negative,0.9993460774421692,True
+"the movie is so resolutely cobbled together out of older movies that it even uses a totally unnecessary prologue , just because it seems obligatory .",negative,negative,0.9994957447052002,True
+"both garcia and jagger turn in perfectly executed and wonderfully sympathetic characters , who are alternately touching and funny .",positive,positive,0.9989086389541626,True
+. . . really horrible drek .,negative,negative,0.9994799494743347,True
+"it puts washington , as honest working man john q . archibald , on a pedestal , then keeps lifting the pedestal higher .",negative,negative,0.9967897534370422,True
+the script feels as if it started to explore the obvious voyeuristic potential of 'hypertime' but then backed off when the producers saw the grosses for spy kids .,negative,negative,0.9994839429855347,True
+"an ambitious , guilt-suffused melodrama crippled by poor casting .",negative,negative,0.9994977712631226,True
+"one of the most original american productions this year , you'll find yourself remembering this refreshing visit to a sunshine state .",positive,positive,0.9988872408866882,True
+all the characters are clinically depressed and have abandoned their slim hopes and dreams .,negative,negative,0.9987230896949768,True
+"the music makes a nice album , the food is enticing and italy beckons us all .",positive,positive,0.9988596439361572,True
+"here the love scenes all end in someone screaming . maybe there's a metaphor here , but figuring it out wouldn't make trouble every day any better .",negative,negative,0.999494194984436,True
+"[a] thoughtful , visually graceful work .",positive,positive,0.9988753199577332,True
+"dark and unrepentant , this excursion into the epicenter of percolating mental instability is not easily dismissed or forgotten .",positive,positive,0.9986660480499268,True
+"julie davis is the kathie lee gifford of film directors , sadly proving once again ego doesn't always go hand in hand with talent .",negative,negative,0.9974544644355774,True
+"the characters , cast in impossibly contrived situations , are totally estranged from reality .",negative,negative,0.9994033575057983,True
+"although shot with little style , skins is heartfelt and achingly real .",positive,positive,0.9988717436790466,True
+"shot largely in small rooms , the film has a gentle , unforced intimacy that never becomes claustrophobic .",positive,positive,0.9988447427749634,True
+"well-meaning to a fault , antwone fisher manages the dubious feat of turning one man's triumph of will into everyman's romance comedy .",negative,negative,0.9977756142616272,True
+[gayton's script] telegraphs every discovery and layers on the gloss of convenience .,negative,negative,0.9995023012161255,True
+". . . bright , intelligent , and humanly funny film .",positive,positive,0.998904824256897,True
+"this is a picture that maik , the firebrand turned savvy ad man , would be envious of : it hijacks the heat of revolution and turns it into a sales tool .",negative,negative,0.9987995624542236,True
+"handled correctly , wilde's play is a masterpiece of elegant wit and artifice . here , alas , it collapses like an overcooked soufflé .",negative,negative,0.9994986057281494,True
+"sometimes charming , sometimes infuriating , this argentinean 'dramedy' succeeds mainly on the shoulders of its actors .",positive,negative,0.9978041052818298,False
+a generic bloodbath that often becomes laughably unbearable when it isn't merely offensive .,negative,negative,0.9994804263114929,True
+"ryosuke has created a wry , winning , if languidly paced , meditation on the meaning and value of family .",positive,positive,0.9988439083099365,True
+"some body is a shaky , uncertain film that nevertheless touches a few raw nerves .",negative,positive,0.986523449420929,False
+an impenetrable and insufferable ball of pseudo-philosophic twaddle .,negative,negative,0.9994895458221436,True
+"exhilarating , funny and fun .",positive,positive,0.9988579750061035,True
+"unlike trey parker , sandler doesn't understand that the idea of exploiting molestation for laughs is funny , not actually exploiting it yourself .",negative,negative,0.9994396567344666,True
+"like smoke signals , the film is also imbued with strong themes of familial ties and spirituality that are powerful and moving without stooping to base melodrama",positive,positive,0.998918890953064,True
+"as with so many merchandised-to-the-max movies of this type , more time appears to have gone into recruiting the right bands for the playlist and the costuming of the stars than into the script , which has a handful of smart jokes and not much else .",negative,negative,0.9994996786117554,True
+"continually challenges perceptions of guilt and innocence , of good guys and bad , and asks us whether a noble end can justify evil means .",positive,positive,0.9987332224845886,True
+manages to be both hugely entertaining and uplifting .,positive,positive,0.9988573789596558,True
+check your brain and your secret agent decoder ring at the door because you don't want to think too much about what's going on . the movie does has some entertainment value - how much depends on how well you like chris rock .,negative,negative,0.9994751811027527,True
+"we never feel anything for these characters , and as a result the film is basically just a curiosity .",negative,negative,0.9994742274284363,True
+"what's the most positive thing that can be said about the new rob schneider vehicle ? well , it's not as pathetic as the animal .",negative,negative,0.9993908405303955,True
+". curiously , super troopers suffers because it doesn't have enough vices to merit its 103-minute length .",negative,negative,0.9993434548377991,True
+[a] poorly executed comedy .,negative,negative,0.9994926452636719,True
+i liked a lot of the smaller scenes .,positive,positive,0.9987136125564575,True
+"instead of using george and lucy's most obvious differences to ignite sparks , lawrence desperately looks elsewhere , seizing on george's haplessness and lucy's personality tics .",negative,negative,0.9994980096817017,True
+it's just rather leaden and dull .,negative,negative,0.9994885921478271,True
+"es una de esas películas de las que uno sale reconfortado , agradecido , genuinamente sorprendido .",positive,positive,0.9987168312072754,True
+"a shoddy male hip hop fantasy filled with guns , expensive cars , lots of naked women and rocawear clothing .",negative,negative,0.999487042427063,True
+"chris columbus' sequel is faster , livelier and a good deal funnier than his original .",positive,positive,0.9988123178482056,True
+"to the filmmakers , ivan is a prince of a fellow , but he comes across as shallow and glib though not mean-spirited , and there's no indication that he's been responsible for putting together any movies of particular value or merit .",negative,negative,0.9994920492172241,True
+"when 'science fiction' takes advantage of the fact that its intended audience hasn't yet had much science , it does a disservice to the audience and to the genre .",negative,negative,0.9994621872901917,True
+it's actually too sincere -- the crime movie equivalent of a chick flick .,negative,negative,0.9980311989784241,True
+"full frontal , which opens today nationwide , could almost be classified as a movie-industry satire , but it lacks the generous inclusiveness that is the genre's definitive , if disingenuous , feature .",negative,negative,0.9806038737297058,True
+"one well-timed explosion in a movie can be a knockout , but a hundred of them can be numbing . proof of this is ballistic : ecks vs . sever .",negative,negative,0.9981168508529663,True
+this film is too busy hitting all of its assigned marks to take on any life of its own .,negative,negative,0.9976215958595276,True
+buy popcorn . take nothing seriously and enjoy the ride .,positive,positive,0.9988395571708679,True
+more of the same old garbage hollywood has been trying to pass off as acceptable teen entertainment for some time now .,negative,negative,0.9994926452636719,True
+"as a science fiction movie , "" minority report "" astounds .",positive,positive,0.9986951947212219,True
+"it's a long way from orwell's dark , intelligent warning cry [1984] to the empty stud knockabout of equilibrium , and what once was conviction is now affectation .",negative,negative,0.9993621706962585,True
+adam sandler ! in an art film !,positive,positive,0.996957540512085,True
+". . . [the film] works , due mostly to the tongue-in-cheek attitude of the screenplay .",positive,positive,0.9920061230659485,True
+"tsai has managed to create an underplayed melodrama about family dynamics and dysfunction that harks back to the spare , unchecked heartache of yasujiro ozu .",positive,positive,0.9986076951026917,True
+a cutesy romantic tale with a twist .,positive,positive,0.9973782300949097,True
+"after the first 10 minutes , which is worth seeing , the movie sinks into an abyss of clichés , depression and bad alternative music .",negative,negative,0.9995064735412598,True
+a visual spectacle full of stunning images and effects .,positive,positive,0.9988592863082886,True
+a mischievous visual style and oodles of charm make 'cherish' a very good ( but not great ) movie .,positive,positive,0.9987673759460449,True
+the movie's vision of a white american zealously spreading a puritanical brand of christianity to south seas islanders is one only a true believer could relish .,negative,positive,0.9944275617599487,False
+while the frequent allusions to gurus and doshas will strike some westerners as verging on mumbo-jumbo . . . broad streaks of common sense emerge with unimpeachable clarity .,positive,positive,0.998794674873352,True
+god bless crudup and his aversion to taking the easy hollywood road and cashing in on his movie-star gorgeousness .,positive,positive,0.9981524348258972,True
+"a funny , triumphant , and moving documentary .",positive,positive,0.9988783001899719,True
+"moore provides an invaluable service by sparking debate and encouraging thought . better still , he does all of this , and more , while remaining one of the most savagely hilarious social critics this side of jonathan swift .",positive,positive,0.9988622665405273,True
+mildly amusing .,negative,negative,0.9971935153007507,True
+"piercingly affecting . . . while clearly a manipulative film , emerges as powerful rather than cloying .",positive,positive,0.998812198638916,True
+"van wilder has a built-in audience , but only among those who are drying out from spring break and are still unconcerned about what they ingest .",negative,negative,0.9934691190719604,True
+an ambitious and moving but bleak film .,positive,negative,0.988892138004303,False
+"[cuarón has] created a substantive movie out of several cliched movie structures : the road movie , the coming-of-age movie , and the teenage sex comedy .",positive,positive,0.9989057779312134,True
+"<em>ash wednesday</em> is not edward burns' best film , but it is a good and ambitious film . and it marks him as one of the most interesting writer/directors working today .",positive,positive,0.9988308548927307,True
+barrels along at the start before becoming mired in sentimentality .,negative,negative,0.9994977712631226,True
+"one of the pleasures in walter's documentary . . . is the parade of veteran painters , confounded dealers , and miscellaneous bohos who expound upon the subject's mysterious personality without ever explaining him .",positive,positive,0.9987226128578186,True
+"visually breathtaking , viscerally exciting , and dramatically moving , it's the very definition of epic adventure .",positive,positive,0.9988784193992615,True
+"after one gets the feeling that the typical hollywood disregard for historical truth and realism is at work here , it's a matter of finding entertainment in the experiences of zishe and the fiery presence of hanussen .",positive,positive,0.9969614148139954,True
+"a rather brilliant little cult item : a pastiche of children's entertainment , superhero comics , and japanese animation .",positive,positive,0.9985352754592896,True
+"none of this sounds promising and , indeed , the first half of sorority boys is as appalling as any 'comedy' to ever spill from a projector's lens .",negative,negative,0.9995036125183105,True
+the film rehashes several old themes and is capped with pointless extremes -- it's insanely violent and very graphic .,negative,negative,0.9994868040084839,True
+"perry's good and his is an interesting character , but "" serving sara "" hasn't much more to serve than silly fluff . nor is it a romantic comedy .",negative,negative,0.9994732737541199,True
+"an incredibly thoughtful , deeply meditative picture that neatly and effectively captures the debilitating grief felt in the immediate aftermath of the terrorist attacks .",positive,positive,0.9989174604415894,True
+"the camera whirls ! the camera twirls ! oh , look at that clever angle ! wow , a jump cut !",negative,positive,0.9976473450660706,False
+"obvious , obnoxious and didactic burlesque .",negative,negative,0.9994825124740601,True
+"a very slow , uneventful ride around a pretty tattered old carousel .",negative,negative,0.9994882345199585,True
+. . . works on some levels and is certainly worth seeing at least once .,positive,positive,0.9986318945884705,True
+"in capturing the understated comedic agony of an ever-ruminating , genteel yet decadent aristocracy that can no longer pay its bills , the film could just as well be addressing the turn of the 20th century into the 21st .",positive,positive,0.9975711703300476,True
+"though in some ways similar to catherine breillat's fat girl , rain is the far superior film .",positive,positive,0.9970062375068665,True
+a thriller made from a completist's checklist rather than with a cultist's passion .,positive,negative,0.9991747736930847,False
+"y tu mamá también is hilariously , gloriously alive , and quite often hotter than georgia asphalt .",positive,positive,0.9986637830734253,True
+"the title , alone , should scare any sane person away .",negative,negative,0.9990125894546509,True
+count on his movie to work at the back of your neck long after you leave the theater .,positive,positive,0.9988623857498169,True
+rodriguez does a splendid job of racial profiling hollywood style--casting excellent latin actors of all ages--a trend long overdue .,positive,positive,0.9986328482627869,True
+little more than a super-sized infomercial for the cable-sports channel and its summer x games .,negative,negative,0.9994520545005798,True
+an engrossing portrait of uncompromising artists trying to create something original against the backdrop of a corporate music industry that only seems to care about the bottom line .,positive,positive,0.9988424181938171,True
+"grant is certainly amusing , but the very hollowness of the character he plays keeps him at arms length",positive,negative,0.9992268085479736,False

@@ -109,13 +109,24 @@ The code applies this same rule and records the winner on the MLflow comparison 
 ## 4. Results Table
 
 <!-- RESULTS_START -->
-The final results table will be filled automatically by evaluate.py.
+
+| Metric | DistilBERT | RoBERTa | Difference (RoBERTa − DistilBERT) |
+|---|---:|---:|---:|
+| Accuracy | 0.8700 | 0.9300 | +0.0600 |
+| Precision | 0.8491 | 0.9388 | +0.0897 |
+| Recall | 0.9000 | 0.9200 | +0.0200 |
+| Macro-F1 | 0.8699 | 0.9300 | +0.0601 |
+| Average latency (ms) | 15.33 | 100.37 | +85.04 |
+| Total inference time (s) | 1.53 | 10.04 | +8.50 |
+
 <!-- RESULTS_END -->
 
 ## 5. Decision and Conclusion
 
 <!-- DECISION_START -->
-The final decision paragraph will be filled automatically by evaluate.py after the final run.
+
+On the fixed 100-review Rotten Tomatoes validation sample, RoBERTa (the Challenger) reached macro-F1 0.9300, while DistilBERT (the initial Champion) reached 0.8699. The difference was +0.0601, against the precommitted minimum improvement of 0.01. RoBERTa did not pass both parts of the prewritten rule, so DistilBERT remains the Champion. The rule retains the faster incumbent when the gain is too small or the latency guardrail fails. Average latency was 15.33 ms per review for DistilBERT and 100.37 ms for RoBERTa, a ratio of 6.55 times. That speed cost matters when processing many reviews, and RoBERTa also has a much larger model download and storage footprint. Both models received the same saved inputs in the same order, so this is a fair comparison for this run. The sample has only 50 examples in each class; one changed prediction is 1% of the sample, and macro-F1 is not a direct example count. The result can therefore change on a larger or different dataset. The disagreement file contains examples for discussion, but a confidence score does not explain a model's reasoning. This project covers one short review dataset and two pretrained classifiers; it does not train a model or establish which model is best for every sentiment task.
+
 <!-- DECISION_END -->
 
 ## 6. Limitations and Declaration

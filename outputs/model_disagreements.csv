@@ -1,0 +1,6 @@
+text,reference,distilbert_prediction,roberta_prediction,comment
+"[it] has the feel of a summer popcorn movie . nothing too deep or substantial . explosions , jokes , and sexual innuendoes abound .",positive,negative,positive,The wording is brief or mixed; compare which sentiment cue each model may have weighted.
+"it puts washington , as honest working man john q . archibald , on a pedestal , then keeps lifting the pedestal higher .",negative,positive,negative,The wording is brief or mixed; compare which sentiment cue each model may have weighted.
+"well-meaning to a fault , antwone fisher manages the dubious feat of turning one man's triumph of will into everyman's romance comedy .",negative,positive,negative,The wording is brief or mixed; compare which sentiment cue each model may have weighted.
+[gayton's script] telegraphs every discovery and layers on the gloss of convenience .,negative,positive,negative,The wording is brief or mixed; compare which sentiment cue each model may have weighted.
+"this is a picture that maik , the firebrand turned savvy ad man , would be envious of : it hijacks the heat of revolution and turns it into a sales tool .",negative,positive,negative,The wording is brief or mixed; compare which sentiment cue each model may have weighted.
