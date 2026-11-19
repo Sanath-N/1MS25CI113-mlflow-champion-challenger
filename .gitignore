@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Local MLflow tracking data and logged models
+mlflow.db
+mlflow.db-shm
+mlflow.db-wal
+mlflow.db-journal
+mlruns/
+mlartifacts/
+
+# IDE and operating-system files
+.idea/
+.DS_Store
+Thumbs.db
+
+# Superseded output filenames from the earlier draft
+outputs/distilbert_predictions.csv
+outputs/roberta_predictions.csv
