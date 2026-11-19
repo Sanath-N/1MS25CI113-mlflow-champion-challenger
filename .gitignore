@@ -21,3 +21,5 @@ Thumbs.db
 # Superseded output filenames from the earlier draft
 outputs/distilbert_predictions.csv
 outputs/roberta_predictions.csv
+
+outputs/plots/model_comparison.png
